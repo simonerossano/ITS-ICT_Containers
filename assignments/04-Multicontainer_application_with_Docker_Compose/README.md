@@ -11,4 +11,3 @@ $ docker-compose up
 ```
 
 Please refer to the Docker Compose reference at https://docs.docker.com/compose/compose-file/
-
